@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="footer">
       <span className="heading-gradient">
-        Made with 🔥 by Shuvam | Developer's Den
+        Made with 🔥 by theshreeraj
       </span>
     </div>
   );
