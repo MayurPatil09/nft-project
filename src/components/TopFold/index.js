@@ -7,7 +7,7 @@ const TopFold = () => {
     <div className="topfold flex">
       <div className="tf-left">
         <div className="tf-heading">
-          Discover collect, & sell{" "}
+         Discover collect, & sell{" "}
           <span className="heading-gradient">Extraordinary </span>
           NFTs
         </div>
