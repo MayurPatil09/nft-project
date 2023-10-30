@@ -2,7 +2,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 92vh;
+  height: 132vh;
+  width: 100%;
   overflow: hidden;
 }
 
